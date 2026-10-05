@@ -1,3 +1,3 @@
 public @interface FefClass {
-    // debug program
+    // debug finished
 }
